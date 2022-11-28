@@ -99,9 +99,9 @@ article p {
     width: 150px;
     height: 150px;
 
-    background-image: url('../images/marvelSprites.jpg');
-}
-
+    background-image: url('../images/worldcupSprites.png');
+    }
+    
 #germany {
     background-position: -150px 0;
 }
@@ -171,8 +171,8 @@ footer {
 }
 
 #lightbox2 {
-    background-image: url('../images/Thor_LB_Bg.png');
-}
+    background-image: url('../images/son.png')
+    }
 
 .lightbox_close {
     position: relative;
