@@ -100,8 +100,8 @@ article p {
     height: 150px;
 
     background-image: url('../images/worldcupSprites.png');
-    }
-    
+}
+
 #germany {
     background-position: -150px 0;
 }
@@ -157,22 +157,20 @@ footer {
 
     background-repeat: no-repeat;
 
-    background-size: 55vh;
+    background-size: 70vh;
     /* 55% of the viewport height */
-    background-position: 40px bottom;
+    background-position: 40px center;
 
     display: none;
 }
 
 #lightbox1 {
     background-image: url('../images/squad.jpeg');
-    background-size: 70vh;
-    background-position: 30px center;
 }
 
 #lightbox2 {
     background-image: url('../images/son.png')
-    }
+}
 
 .lightbox_close {
     position: relative;
