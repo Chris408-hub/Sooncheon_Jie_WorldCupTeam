@@ -169,8 +169,10 @@ footer {
 }
 
 #lightbox2 {
-    background-image: url('../images/son.png')
-}
+    background-image: url('../images/the_team-of_korea.png');
+    background-size: 60vh;
+    background-position: 40px center;
+    }
 
 .lightbox_close {
     position: relative;
