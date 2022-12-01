@@ -1,7 +1,7 @@
 # Sooncheon_Jie_WorldCupTeam
 
-This is the introduction of our favorite WorldCupTeam. 
-Soon Cheon choose Korea, Jie choose Germany.
+This is the introduction of our favorite 6 WorldCupTeams. 
+SoonCheon chose Korea, Jie chose Germany.
 
 ## Contributing
 
@@ -18,4 +18,4 @@ Kim Soon Cheon and Jie Yang.
 
 ## License
 
-MIT
+All text and images are from Google and FIFA
