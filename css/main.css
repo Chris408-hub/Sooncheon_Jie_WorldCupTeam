@@ -67,7 +67,7 @@ input[type=checkbox] {
 }
 
 input[type=checkbox]:checked + span::after {
-    content: 'We wish your team a wim!';
+    content: 'We wish your team a win!';
     width: 450px;
     height: 80px;
     text-align: center;
